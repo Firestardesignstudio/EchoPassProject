@@ -29,11 +29,13 @@ by translating machine signals into human understanding through AI.
 
 ---
 
+
 ### 💡 Philosophy
 - Open Collaboration  
 - Human–AI Coexistence  
 - Safety First, Freedom Next  
-
+📘 [Technical Documents → /Docs](./Docs)
+📦 [Template Download (v2)](./EchoPassProject_Template_v2.zip)
 ---
 
 © Firestar Design Studio / Echo Pass Community  
