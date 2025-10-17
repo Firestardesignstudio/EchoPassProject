@@ -2,6 +2,7 @@
 AI-Human Coexistence Infrastructure for Safe Mobility
 # Echo Pass Project  
 AI–Human Coexistence Infrastructure for Safe Mobility  
+📘 [English version](./README_en.md)
 
 > 技術は支配のためではなく、共に生きるためにある。  
 > Technology is not for control, but for coexistence.  
